@@ -2,7 +2,7 @@
 
 ---
 
-本リポジトリは朝倉書店発行書籍『[データサイエンス入門](https://www.asakura.co.jp/books/isbn/978-4-254-12912-0/)』
+本リポジトリは朝倉書店発行書籍『[データサイエンス入門](http://www.asakura.co.jp/books/isbn/978-4-254-12911-3/)』
 （[Pythonによるビジネスデータサイエンス](http://www.asakura.co.jp/G_11.php?sreiesname=349) 第1巻）のサポートサイトです。
 
 
